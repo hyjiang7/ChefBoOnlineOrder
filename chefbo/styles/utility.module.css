@@ -1,0 +1,63 @@
+    .textCenter {
+        text-align: center !important;
+    }
+    
+    .bgRed {
+        background-color: rgb(97, 19, 0, .95) !important;
+    }
+    
+    .textRed {
+        color: rgb(97, 19, 0, .95) !important;
+    }
+    
+    .fontSizeLarge {
+        font-size: 6vw !important;
+        /* font-size: 35px !important; */
+        font-weight: 600 !important;
+    }
+    
+    .fontSizeMedium {
+        font-size: 5vw !important;
+        font-weight: 500 !important;
+    }
+    
+    .fontSizeSmall {
+        font-size: 4vw !important;
+    }
+    
+    .fontSizeXSmall {
+        font-size: 3vw !important;
+        font-weight: 300 !important;
+    }
+    
+    .pointerCursor {
+        cursor: pointer !important;
+    }
+    
+    .container {
+        width: 100% !important;
+    }
+    
+    @media (max-width: 600px) {
+        .container {
+            width: 75% !important;
+        }
+    }
+    
+    @media(min-width: 600px) {
+        .fontSizeLarge {
+            font-size: 40px !important;
+            font-weight: 600 !important;
+        }
+        .fontSizeMedium {
+            font-size: 35px !important;
+            font-weight: 500 !important;
+        }
+        .fontSizeSmall {
+            font-size: 25px !important;
+        }
+        .fontSizeXSmall {
+            font-size: 18px !important;
+            font-weight: 300 !important;
+        }
+    }

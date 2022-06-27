@@ -1,0 +1,267 @@
+[{
+        "ID": 1000,
+        "Category": "Modifiers",
+        "Name": "Regular Noodles",
+        "Chinese Name": null,
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1001,
+        "Category": "Modifiers",
+        "Name": "Skinny Noodles",
+        "Chinese Name": "细面",
+        "Price": 1,
+        "Time": "All"
+    },
+    {
+        "ID": 1002,
+        "Category": "Modifiers",
+        "Name": "Flat Rice Noodles",
+        "Chinese Name": "河粉",
+        "Price": 1,
+        "Time": "All"
+    },
+    {
+        "ID": 1003,
+        "Category": "Modifiers",
+        "Name": "Hong Kong Style Noodles (Pan Fried Crispy Noodles)",
+        "Chinese Name": "煎面",
+        "Price": 1,
+        "Time": "All"
+    },
+    {
+        "ID": 1004,
+        "Category": "Modifiers",
+        "Name": "Fried Tofu",
+        "Chinese Name": "炸豆腐",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1005,
+        "Category": "Modifiers",
+        "Name": "Soft Tofu",
+        "Chinese Name": "软豆腐",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1006,
+        "Category": "Modifiers",
+        "Name": "Not Spicy",
+        "Chinese Name": "不辣",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1007,
+        "Category": "Modifiers",
+        "Name": "Extra Spicy",
+        "Chinese Name": "多辣",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1008,
+        "Category": "Modifiers",
+        "Name": "No peanuts",
+        "Chinese Name": "不要花生",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1009,
+        "Category": "Modifiers",
+        "Name": "No cashews",
+        "Chinese Name": "不要腰果",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1010,
+        "Category": "Modifiers",
+        "Name": "No walnuts",
+        "Chinese Name": "不要核桃",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1011,
+        "Category": "Modifiers",
+        "Name": "Extra Pancakes (4)",
+        "Chinese Name": "加木须皮（4个）",
+        "Price": 1,
+        "Time": "All"
+    },
+    {
+        "ID": 1012,
+        "Category": "Modifiers",
+        "Name": "Extra Chicken",
+        "Chinese Name": "多鸡（$2)",
+        "Price": 2,
+        "Time": "All"
+    },
+    {
+        "ID": 1013,
+        "Category": "Modifiers",
+        "Name": "Extra Beef",
+        "Chinese Name": "多牛 （$3)",
+        "Price": 3,
+        "Time": "All"
+    },
+    {
+        "ID": 1014,
+        "Category": "Modifiers",
+        "Name": "Extra BBQ Pork",
+        "Chinese Name": "多叉烧 （$2)",
+        "Price": 2,
+        "Time": "All"
+    },
+    {
+        "ID": 1015,
+        "Category": "Modifiers",
+        "Name": "Extra Sweet & Sour Sauce (8 oz)",
+        "Chinese Name": "多甜酸酱 （$2)",
+        "Price": 2,
+        "Time": "All"
+    },
+    {
+        "ID": 1016,
+        "Category": "Modifiers",
+        "Name": "Extra Lemon Sauce (8 oz)",
+        "Chinese Name": "多柠檬酱 （$2)",
+        "Price": 2,
+        "Time": "All"
+    },
+    {
+        "ID": 1017,
+        "Category": "Modifiers",
+        "Name": "Extra Egg Foo Young Sauce (8 oz)",
+        "Chinese Name": "多芙蓉酱 （$2)",
+        "Price": 2,
+        "Time": "All"
+    },
+    {
+        "ID": 1018,
+        "Category": "Modifiers",
+        "Name": "No Pork",
+        "Chinese Name": "不要肉",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1019,
+        "Category": "Modifiers",
+        "Name": "No Sesame",
+        "Chinese Name": "不要芝麻",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1020,
+        "Category": "Modifiers",
+        "Name": "No Vegetables",
+        "Chinese Name": "不要菜",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1021,
+        "Category": "Modifiers",
+        "Name": "Extra Teriyaki Sauce (8 oz)",
+        "Chinese Name": "多日本汁 （$2)",
+        "Price": 2,
+        "Time": "All"
+    },
+    {
+        "ID": 1022,
+        "Category": "Modifiers",
+        "Name": "Extra Sauce (8 oz)",
+        "Chinese Name": "多汁 （$2)",
+        "Price": 2,
+        "Time": "All"
+    },
+    {
+        "ID": 1023,
+        "Category": "Modifiers",
+        "Name": "Side: Chicken Fried Rice",
+        "Chinese Name": "鸡炒饭",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1024,
+        "Category": "Modifiers",
+        "Name": "Side: Chicken Chow Mein",
+        "Chinese Name": "鸡炒面",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1025,
+        "Category": "Modifiers",
+        "Name": "Side: House Special Fried Rice",
+        "Chinese Name": "本楼炒饭",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1026,
+        "Category": "Modifiers",
+        "Name": "Side: House Special Chow Mein",
+        "Chinese Name": "本楼炒面",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1027,
+        "Category": "Modifiers",
+        "Name": "Less Vegetables",
+        "Chinese Name": "少菜",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1028,
+        "Category": "Modifiers",
+        "Name": "No Egg",
+        "Chinese Name": "不要蛋",
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1029,
+        "Category": "Modifiers",
+        "Name": "Extra Shrimp (3 pieces)",
+        "Chinese Name": "多3只虾 ($3)",
+        "Price": 3,
+        "Time": "All"
+    },
+    {
+        "ID": 1030,
+        "Category": "Modifiers",
+        "Name": "Medium Spicy",
+        "Chinese Name": null,
+        "Price": 0,
+        "Time": "All"
+    },
+    {
+        "ID": 1031,
+        "Category": "Modifiers",
+        "Name": "More Vegetables",
+        "Chinese Name": "多菜 ($2)",
+        "Price": 2,
+        "Time": "All"
+    },
+    {
+        "ID": 1032,
+        "Category": "Modifiers",
+        "Name": "With Black Bean Sauce",
+        "Chinese Name": "鼓汁酱 (湿炒）",
+        "Price": 0,
+        "Time": "All"
+    }
+
+
+]
